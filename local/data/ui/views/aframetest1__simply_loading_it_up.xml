@@ -1,0 +1,20 @@
+<form>
+  <label>AFrameTest1 - Simply Loading It Up</label>
+  <fieldset submitButton="true">
+    <input type="text" token="textbox1">
+      <label>TextBox1</label>
+    </input>
+  </fieldset>
+  <row>
+    <panel>
+      <table>
+        <search>
+          <query>|makeresults count=100</query>
+          <earliest>-24h@h</earliest>
+          <latest>now</latest>
+        </search>
+        <option name="drilldown">none</option>
+      </table>
+    </panel>
+  </row>
+</form>

@@ -1,0 +1,29 @@
+[app/ui]
+version = 6.6.2
+modtime = 1507577531.344428000
+
+[app/launcher]
+version = 6.6.2
+modtime = 1507577531.345856000
+
+[views/aframetest1__simply_loading_it_up]
+owner = admin
+version = 6.6.2
+modtime = 1507579899.599003000
+
+[html/aframetest1__simply_loading_it_up_html]
+owner = admin
+version = 6.6.2
+modtime = 1507585807.136467000
+
+[html/aframetest1__simply_loading_it_up_html2]
+owner = admin
+version = 6.6.2
+modtime = 1507584918.208173000
+
+[html/aframetest1__building_objects_with_search]
+access = read : [ * ], write : [ admin, power ]
+export = none
+owner = admin
+version = 6.6.2
+modtime = 1507599455.738870000
